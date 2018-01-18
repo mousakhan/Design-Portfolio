@@ -4,3 +4,7 @@ This portfolio was created for SYDE 542: Interface Design and can be seen at htt
 
 
 <img src="moose.jpg" alt="hi" class="inline"/>
+<img src="moose.jpg" alt="hi" class="inline"/>
+<img src="moose.jpg" alt="hi" class="inline"/>
+<img src="moose.jpg" alt="hi" class="inline"/>
+<img src="moose.jpg" alt="hi" class="inline"/>

@@ -1,7 +1,8 @@
 # Design Portfolio
 
-## **ViiMe**
-### Mobile
+## ViiMe
 
+### Background
 
-### Website
+#### User Requirements
+

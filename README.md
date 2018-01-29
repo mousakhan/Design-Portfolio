@@ -25,11 +25,4 @@ The requirements laid out from the founder were as follows:
  
 ##### User Requirements
 
-### Web
-
-#### Background
-
-#### User Requirements
-The user requirements were created by interviewing venue owners on what they would want from the application. 
-
-
+### Web - Coming Soon

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="406px" height="56px" viewBox="0 0 406 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>iPad Pro Portrait</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="135" height="56"></rect>
+        <rect id="path-2" x="135" y="0" width="135" height="56"></rect>
+        <rect id="path-3" x="270" y="0" width="135" height="56"></rect>
+    </defs>
+    <g id="ViiMe---Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Pro-Portrait">
+            <g id="Rectangle-9">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="134" height="55"></rect>
+            </g>
+            <text id="#3F2682" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="38.2148453" y="45">#3F2682</tspan>
+            </text>
+            <g id="Rectangle-9">
+                <use fill="#2C303C" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#979797" stroke-width="1" x="135.5" y="0.5" width="134" height="55"></rect>
+            </g>
+            <text id="#2C303C" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="171.612306" y="45">#2C303C</tspan>
+            </text>
+            <g id="Rectangle-9">
+                <use fill="#444A59" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#979797" stroke-width="1" x="270.5" y="0.5" width="134" height="55"></rect>
+            </g>
+            <text id="#444A59" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="307.057619" y="45">#444A59</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

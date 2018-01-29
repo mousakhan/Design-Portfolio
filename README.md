@@ -1,7 +1,7 @@
 # Design Portfolio
 
 ## ViiMe
-<img src="ViiMe-Transparent.png">
+<img src="ViiMe-Transparent.png" style="width:100px; height: 50px;">
 
 ViiMe was a project created by my best friend and one of his friends. The idea was that venue owners could provide unique deals to people if they come in groups. The project required creating a web application for venue owners and a mobile application for patrons. 
 

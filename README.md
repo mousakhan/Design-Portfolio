@@ -2,7 +2,15 @@
 
 ## ViiMe
 
-ViiMe was a project created by my best friend. The idea was that venue owners could provide unique deals to people if they come in groups. The project required creating a web application for venue owners and a mobile application for patrons. 
+ViiMe was a project created by my best friend and one of his friends. The idea was that venue owners could provide unique deals to people if they come in groups. The project required creating a web application for venue owners and a mobile application for patrons. 
+
+There were certain requirements laid out from the founders, and they were as follows:
+
+1. The mobile application must be available on both iOS and Android
+2. The mobile application and web application must be made within three months for launch
+3. The color scheme must be dark, consisting of purple, black & gray as the primary colors <img src="ColorSwatch.png">
+
+
 
 ### Mobile
 
@@ -13,16 +21,7 @@ The mobile application was the method for patrons to easily redeem deals at spec
 ####  Requirements
 
 ##### Business Requirements
-There were requirements laid out from the founder, and then there were user requirements.
 
-The requirements laid out from the founder were as follows:
-
-1. The application must be available on both iOS and Android
-2. It must be made within two months for launch
-3. The color scheme must be dark, consisting of purple, black & gray as the primary colors
-
- <img src="ColorSwatch.png">
- 
 ##### User Requirements
 
 ### Web - Coming Soon

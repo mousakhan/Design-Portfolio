@@ -21,7 +21,7 @@ The requirements laid out from the founder were as follows:
 2. It must be made within two months for launch
 3. The color scheme must be dark, consisting of purple, black & gray as the primary colors
 
- ![Image]("ColorSwatch")
+ ![Image](src="ColorSwatch".png)
  
 
 

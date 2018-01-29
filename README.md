@@ -11,7 +11,7 @@ There were certain requirements laid out from the founders, and they were as fol
 2. The mobile application and web application must be made within three months for launch
 3. The color scheme must be dark, consisting mainly of the following colors: 
 
-<img src="ColorSwatch.png" style="width:100%">
+<img src="Swatch.svg" style="width:100%">
 
 
 

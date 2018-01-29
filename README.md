@@ -10,9 +10,9 @@ ViiMe was a project created by my best friend. The idea was that venue owners co
 The mobile application was the method for patrons to easily redeem deals at specific venues. They would need to search through venues, find a deal they like, and then be able to redeem it. The venues initially targetted were solely in Ottawa, since that was where my best friend went to school. This made it a little more challenging since a lot of communication went through him.
 
 
-#### Skills Used
-
 ####  Requirements
+
+##### Business Requirements
 There were requirements laid out from the founder, and then there were user requirements.
 
 The requirements laid out from the founder were as follows:
@@ -23,7 +23,7 @@ The requirements laid out from the founder were as follows:
 
  <img src="ColorSwatch.png">
  
-
+##### User Requirements
 
 ### Web
 

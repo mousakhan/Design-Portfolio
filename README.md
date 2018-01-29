@@ -7,10 +7,21 @@ ViiMe was a project created by my best friend. The idea was that venue owners co
 ### Mobile
 
 #### Background
-The mobile application was the method for patrons to easily redeem deals at specific venues. They would need to search through venues, find a deal they like, and then be able to redeem it. It was to be available on both iOS & Android. 
+The mobile application was the method for patrons to easily redeem deals at specific venues. They would need to search through venues, find a deal they like, and then be able to redeem it. The venues initially targetted were solely in Ottawa, since that was where my best friend went to school. This made it a little more challenging since a lot of communication went through him.
 
-#### User Requirements
 
+#### Skills Used
+
+####  Requirements
+There were requirements laid out from the founder, and then there were user requirements.
+
+The requirements laid out from the founder were as follows:
+
+1. The application must be available on both iOS and Android
+2. It must be made within two months for launch
+3. The color scheme must be dark, consisting of purple, black & gray as the primary colors
+
+<img src="ColorSwatch.png"></img>
 
 
 ### Web

@@ -11,7 +11,7 @@ There were certain requirements laid out from the founders, and they were as fol
 2. The mobile application and web application must be made within three months for launch
 3. The color scheme must be dark, consisting mainly of the following colors: 
 
-<img src="Swatch.svg" style="width:100%">
+<img src="Swatch.png" style="width:100%">
 
 
 
@@ -24,7 +24,10 @@ Currently, the application flow is as follows and it will be explained in more d
 
 <img src="Navigation1.png"> 
 
+##### Login
+When the user first opens the application, they will land on the Login page. They must enter a username and password to login. If they do not have an account, they can click a 'CREATE AN ACCOUNT' button. If they forgot their password, they can click the 'FORGOT PASSWORD?' button.
 
+#####
 
 ####  User Requirements
 

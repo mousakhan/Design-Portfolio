@@ -35,7 +35,13 @@ There were rewards sent directly from venue owners to users to thank them for th
           
 The friends list page lists all friends, and there is a button to add a friend. When adding a friend, they will type in the username of their friend and all possible matches will show up in their search.
 
-Finally, they can browse venues. On this page, all venues with deals are listed. They can search through the venues if they would like.
+Finally, they can browse venues. On this page, all venues with deals are listed. They can search through the venues and when they click on one, they will see venue information and deals. If they click on a deal, they will see the possible things they can redeem depending on how big their group is. On the top right, there is a button to invite friends to their group.
+
+<img src="VenuesOriginal.jpg"  style="height:350px">
+<img src="VenuesDeals.jpg"  style="height:350px">
+<img src="Deals.jpg"  style="height:350px">
+
+
 
 
 To summarize, the current application flow is shown below.

@@ -16,9 +16,9 @@ The mobile application was the method for patrons to easily redeem deals at spec
 
 When the user first opens the application, they will land on the Login page. They must enter a username and password to login. If they do not have an account, they can click a 'Not a member? Sign up now!' button. If they forgot their password, they can click the 'Forgot Password?' button.
 
-<img src="Login .jpg" style="height:375px">
-<img src="Sign Up.jpg" style="height:375px">
-<img src="Forgot Password.jpg" style="height:375px">
+<img src="Login .jpg" style="height:350px">
+<img src="Sign Up.jpg" style="height:350px">
+<img src="Forgot Password.jpg" style="height:350px">
 
 After they login, they will head to the groups page. To redeem deals, users must form groups by inviting their friends. If there are any active groups to redeem deals, this is where they will appear. The reason for having groups is that we can track who has redeemed what deal, and this information can be conveyed to venue owners.
 

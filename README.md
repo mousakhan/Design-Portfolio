@@ -20,7 +20,7 @@ When the user first opens the application, they will land on the Login page. The
 <img src="Sign Up.jpg" style="height:350px">
 <img src="Forgot Password.jpg" style="height:350px">
 
-After they login, they will head to the groups page. To redeem deals, users must form groups by inviting their friends. If there are any active groups to redeem deals, this is where they will appear. The reason for having groups is that we can track who has redeemed what deal, and this information can be conveyed to venue owners. They can redeem any deals or invite friends to deals on this page.
+After they login, they will head to the groups page. To redeem deals, users must form groups by inviting their friends. If there are any active groups to redeem deals, this is where they will appear. The reason for having groups is that we can track who has redeemed what deal, and this information can be conveyed to venue owners. They can redeem any deals or invite friends to deals on this page. When they want to redeem, a pop-up appears where a code must be entered. Employees at venues know this code, and would enter it in for the deal to be redeemed.
 
 <img src="GroupsPage.jpg" style="height:350px">
 <img src="InviteFriend.jpg" style="height:350px">
@@ -41,19 +41,31 @@ Finally, they can browse venues. On this page, all venues with deals are listed.
 <img src="VenuesDeals.jpg"  style="height:350px">
 <img src="Deals.jpg"  style="height:350px">
 
-
-
-
 To summarize, the current application flow is shown below.
 
 <img src="Navigation1.png"> 
 
-
-
-####
+The next step will be to improve the interface through this course. We will start afresh with user requirements.
 
 ####  User Requirements
 
-With the application published, feedback was collected from users. I interviewed 3 users of the application
+With the application published, feedback was collected from users. Furthermore, I asked 3 friends with no prior knowledge of the application some questions. I wanted to see how they would navigate the application and where some chokepoints for users might be, along with their general impressions of the application.
+
+The tasks that I asked were:
+
+1. Please redeem a deal (the deal to redeem was given)
+2. What are your overall impressions of the application?
+3. What would you improve?
+
+To summarize findings, here are the key points:
+
+- Users really did not understand the concept of having to create a group, invite your friends (which means adding friends to your friends list), and then redeeming.
+-  There were some layout concerns, especially with the venue information page and deals page.
+- They liked the idea of the application
+
+
+
+
+
 
 

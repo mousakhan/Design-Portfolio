@@ -7,7 +7,7 @@ There were certain requirements laid out from the founders, and they were as fol
 
 1. The mobile application must be available on both iOS and Android
 2. The mobile application and web application must be made within three months for launch
-3. The color scheme must be dark
+3. ...
 
 ## Mobile
 

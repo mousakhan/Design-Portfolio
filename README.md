@@ -22,9 +22,9 @@ When the user first opens the application, they will land on the Login page. The
 
 After they login, they will head to the groups page. To redeem deals, users must form groups by inviting their friends. If there are any active groups to redeem deals, this is where they will appear. The reason for having groups is that we can track who has redeemed what deal, and this information can be conveyed to venue owners.
 
+<img src="GroupsPage.jpg" style="height:375px">
+<img src="InviteFriend.jpg" style="height:375px">
 <img src="GroupsInvitations.jpg" style="height:375px">
-<img src="GroupsPage.jng" style="height:375px">
-<img src="InviteFriend.jng" style="height:375px">
 
 Currently, the application flow is as follows and it will be explained in more detail after:
 

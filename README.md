@@ -51,7 +51,7 @@ The next step will be to improve the interface through this course. We will star
 
 With the application published, feedback was collected from users. Furthermore, I asked 3 friends with no prior knowledge of the application some questions. I wanted to see how they would navigate the application and where some chokepoints for users might be, along with their general impressions of the application.
 
-The tasks that I asked were:
+I asked three simple questions which I thought would give some key insights. They are as follows:
 
 1. Please redeem a deal (the deal to redeem was given)
 2. What are your overall impressions of the application?
@@ -61,9 +61,23 @@ To summarize findings, here are the key points:
 
 - Users really did not understand the concept of having to create a group, invite your friends (which means adding friends to your friends list), and then redeeming.
 -  There were some layout concerns, especially with the venue information page and deals page.
-- They liked the idea of the application
+- They liked the idea of the application, and the deals offered
+- They did not understand what vRewards were
 
 
+The major point of concern is not understanding the concept of a group and why that was necessary. From a business stand point, the founders really wanted to be able to track exactly who was redeeming what deals. They wanted to use this information and sell it to business owners. This was something I pushed to them earlier that this whole process of creating groups would be a big headache for users (and to implement). After conducting these interviews, I brought it up with them again and pushed them on it. They finally gave in - get rid of this groups concept.
+
+The reason why it makes sense to get rid of creating groups and redemptions is that, instead of doing that, users should just be able to log in, look at a venue, and bring up the redemption page. The employee at the venue can look at the # of people in the group and then punch in the redemption code. This makes it significantly easier to redeem a deal you want.
+
+####  Navigation
+
+With this new information structure, the whole navigation was re-thought. It was not necessary to have groups to redeem deals. Thus, the concept of friends list was not necessary. Furthermore, the whole navigation layout was simplified:
+
+<img src="InformationStructure.png"> 
+
+####  Layout
+
+This change required changing some of the page layout. Instead of having a deals page where as they invite more users, the deals change, it makes more sense to list all the deals. This way, when they click a venue, they can see all deals, how many people they need, and they can decide which deals they can redeem. A quick sketch of this idea is shown below:
 
 
 

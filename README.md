@@ -77,7 +77,9 @@ With this new information structure, the whole navigation was re-thought. It was
 
 ####  Layout
 
-This change required changing some of the page layout. Instead of having a deals page where as they invite more users, the deals change, it makes more sense to list all the deals. This way, when they click a venue, they can see all deals, how many people they need, and they can decide which deals they can redeem. A quick sketch of this idea is shown below:
+This change required changing some of the page layout. Instead of having a deals page where as they invite more users, the deals change, it makes more sense to list all the deals. This way, when they click a venue, they can see all deals, how many people they need, and they can decide which deals they want to redeem. After clicking the deal, a popup will show where employees can enter a redemption code. A quick sketch of this idea is shown below:
+
+<img src="Layout.jpg">
 
 
 

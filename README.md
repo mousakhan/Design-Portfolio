@@ -27,6 +27,9 @@ Currently, the application flow is as follows and it will be explained in more d
 ##### Login
 When the user first opens the application, they will land on the Login page. They must enter a username and password to login. If they do not have an account, they can click a 'CREATE AN ACCOUNT' button. If they forgot their password, they can click the 'FORGOT PASSWORD?' button.
 
+<img src="Login .jpg"> 
+<img src="SignUp.jpg"> 
+
 #####
 
 ####  User Requirements

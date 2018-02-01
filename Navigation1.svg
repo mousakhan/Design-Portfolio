@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="663px" height="371px" viewBox="0 0 663 371" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>iPad Landscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="31" y="193" width="93" height="38"></rect>
+        <rect id="path-2" x="194" y="193" width="93" height="38"></rect>
+        <rect id="path-3" x="363" y="193" width="93" height="38"></rect>
+        <rect id="path-4" x="137" y="107" width="93" height="38"></rect>
+        <rect id="path-5" x="270" y="107" width="93" height="38"></rect>
+        <rect id="path-6" x="31" y="109" width="93" height="38"></rect>
+        <rect id="path-7" x="33" y="286" width="93" height="38"></rect>
+        <rect id="path-8" x="137" y="287" width="93" height="38"></rect>
+        <rect id="path-9" x="261" y="286" width="93" height="38"></rect>
+        <rect id="path-10" x="531" y="193" width="93" height="38"></rect>
+        <rect id="path-11" x="270" y="22" width="93" height="38"></rect>
+    </defs>
+    <g id="ViiMe---Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Landscape">
+            <rect id="Rectangle-13" fill="#444A59" x="-2" y="1" width="666" height="368"></rect>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#000000" stroke-width="1" x="31.5" y="193.5" width="92" height="37"></rect>
+            </g>
+            <text id="LOGIN" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="57.0379475" y="217">LOGIN</tspan>
+            </text>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#000000" stroke-width="1" x="194.5" y="193.5" width="92" height="37"></rect>
+            </g>
+            <text id="GROUPS" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="213.322685" y="217">GROUPS</tspan>
+            </text>
+            <path d="M128.5,212 L184.5803,212" id="Line" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M184.5803,212 L173.7803,209 L173.7803,215 L184.5803,212 Z" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <text id="GROUPS" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="213.322685" y="217">GROUPS</tspan>
+            </text>
+            <path d="M225.5803,188.340878 L207.5,154.5" id="Line" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M207.5,154.5 L209.943303,165.439391 L215.235352,162.611987 L207.5,154.5 Z" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path d="M279.0803,187.840878 L261,154" id="Line" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square" transform="translate(270.040150, 170.920439) scale(-1, 1) translate(-270.040150, -170.920439) "></path>
+            <path id="Line-decoration-1" d="M261,154 L263.443303,164.939391 L268.735352,162.111987 L261,154 Z" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#000000" stroke-width="1" x="363.5" y="193.5" width="92" height="37"></rect>
+            </g>
+            <text id="VENUES" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="383.038506" y="217">VENUES</tspan>
+            </text>
+            <path d="M297.5,212 L353.5803,212" id="Line" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M353.5803,212 L342.7803,209 L342.7803,215 L353.5803,212 Z" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke="#000000" stroke-width="1" x="137.5" y="107.5" width="92" height="37"></rect>
+            </g>
+            <text id="PROFILE" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="156.0459" y="131">PROFILE</tspan>
+            </text>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <rect stroke="#000000" stroke-width="1" x="270.5" y="107.5" width="92" height="37"></rect>
+            </g>
+            <text id="FRIENDS-LIST" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="288.278322" y="125">FRIENDS </tspan>
+                <tspan x="302.295202" y="140">LIST</tspan>
+            </text>
+            <path d="M76.053533,187.340878 L76.053533,156.481085" id="Line" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M76.053533,156.481085 L73.053533,167.281085 L79.053533,167.281085 L76.053533,156.481085 Z" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <rect stroke="#000000" stroke-width="1" x="31.5" y="109.5" width="92" height="37"></rect>
+            </g>
+            <text id="SIGN-UP" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="50.2011734" y="133">SIGN UP</tspan>
+            </text>
+            <path d="M77.053533,238.499905 L77.053533,272.481085" id="Line" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M77.053533,272.481085 L80.053533,261.681085 L74.053533,261.681085 L77.053533,272.481085 Z" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <rect stroke="#000000" stroke-width="1" x="33.5" y="286.5" width="92" height="37"></rect>
+            </g>
+            <text id="FORGOT-PASSWOD?" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.71428514" fill="#FFFFFF">
+                <tspan x="51.9635899" y="303">FORGOT </tspan>
+                <tspan x="42.1252813" y="318">PASSWOD?</tspan>
+            </text>
+            <path d="M229.5803,235.499905 L211.5,276.5" id="Line" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M211.5,276.5 L218.602655,267.828651 L213.112754,265.407704 L211.5,276.5 Z" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path d="M282.0803,235 L264,276.000095" id="Line" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square" transform="translate(273.040150, 255.500047) scale(-1, 1) translate(-273.040150, -255.500047) "></path>
+            <path id="Line-decoration-1" d="M264,276.000095 L271.102655,267.328746 L265.612754,264.907799 L264,276.000095 Z" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-8"></use>
+                <rect stroke="#000000" stroke-width="1" x="137.5" y="287.5" width="92" height="37"></rect>
+            </g>
+            <text id="REDEEM" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="156.239678" y="312">REDEEM</tspan>
+            </text>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <rect stroke="#000000" stroke-width="1" x="261.5" y="286.5" width="92" height="37"></rect>
+            </g>
+            <text id="INVITE-FRIENDS" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="285.790459" y="302">INVITE </tspan>
+                <tspan x="279.278322" y="317">FRIENDS</tspan>
+            </text>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-10"></use>
+                <rect stroke="#000000" stroke-width="1" x="531.5" y="193.5" width="92" height="37"></rect>
+            </g>
+            <text id="DEALS" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="556.185408" y="217">DEALS</tspan>
+            </text>
+            <path d="M465.5,212 L521.5803,212" id="Line" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M521.5803,212 L510.7803,209 L510.7803,215 L521.5803,212 Z" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path d="M315.053533,100.340878 L315.053533,69.4810853" id="Line" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M315.053533,69.4810853 L312.053533,80.2810853 L318.053533,80.2810853 L315.053533,69.4810853 Z" stroke="#FFFFFF" stroke-width="2" fill="#EFEFF4" stroke-linecap="square"></path>
+            <g id="Rectangle-10">
+                <use fill="#3F2682" fill-rule="evenodd" xlink:href="#path-11"></use>
+                <rect stroke="#000000" stroke-width="1" x="270.5" y="22.5" width="92" height="37"></rect>
+            </g>
+            <text id="ADD-FRIEND" font-family=".SFNSDisplay-Medium, .SF NS Display" font-size="12" font-weight="400" letter-spacing="1.428571" fill="#FFFFFF">
+                <tspan x="302.663784" y="40">ADD </tspan>
+                <tspan x="292.637139" y="55">FRIEND</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

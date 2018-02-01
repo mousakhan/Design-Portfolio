@@ -22,7 +22,7 @@ The mobile application was the method for patrons to easily redeem deals at spec
 
 Currently, the application flow is as follows and it will be explained in more detail after:
 
-<img src="Navigation1.tiff"> 
+<img src="Navigation1.png"> 
 
 
 

@@ -77,11 +77,13 @@ With this new information structure, the whole navigation was re-thought. It was
 
 ####  Layout
 
-This change required changing some of the page layout. Instead of having a deals page where as they invite more users, the deals change, it makes more sense to list all the deals. This way, when they click a venue, they can see all deals, how many people they need, and they can decide which deals they want to redeem. After clicking the deal, a popup will show where employees can enter a redemption code. A quick sketch of this idea is shown below:
+This change required changing some of the page layout. Instead of having a deals page where as they invite more users, the deals change, it makes more sense to list all the deals. This way, when they click a venue, they can see all deals, how many people they need, and they can decide which deals they want to redeem. After clicking the deal, a popup will show where employees can enter a redemption code. Another quick idea was to change the venue layout. Since rows for each venue were taking up a lot of space, and there are currently ~15 venues in the application, it takes up too much screen space. A quick sketch of these new layouts are shown below:
 
 <img src="Layout.jpg">
 
 
+
+The venues are now 'cards' and two cards can go in one row. Furthermore, the deals will be listed when they click the venue, and right after clicking the deal, a pop-up shows up where they can pass the phone over to a venue employee to enter the code.
 
 
 

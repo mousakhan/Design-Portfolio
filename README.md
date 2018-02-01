@@ -20,10 +20,15 @@ There were certain requirements laid out from the founders, and they were as fol
 #### Background
 The mobile application was the method for patrons to easily redeem deals at specific venues. They would need to search through venues, find a deal they like, and then be able to redeem it. The venues initially targetted were solely in Ottawa, since that was where my best friend went to school. This made it a little more challenging since a lot of communication went through him.
 
+Currently, the application flow is as follows and it will be explained in more detail after:
+
+<img src="Navigation1.svg"> 
+
+
 
 ####  User Requirements
 
-The founders used their observations of the problem space and came up with certain features they thought were important in the application. These insights were transformed into use cases and further expanded.
+
 
 
 

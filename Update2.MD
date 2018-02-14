@@ -83,12 +83,14 @@ With this course, I'd like to take a completely fresh look at the application. I
 
 Originally, the application was going to host almost only night life venues such as bars, clubs, etc. That led to the decision of using a dark color scheme. However, the application now has venues ranging from bars to local pizza places so it does not seem as appropriate. It might still work, but I decided to investigate other potential color palettes. I used mood boards to gain some inspiration.
 
-##### Mood Boards
+##### Mood Board
 
-I found some inspirations online, shown below:
+I ended up making a mood board online, that can be found here: http://www.gomoodboard.com/boards/CldeNaha/share
 
-<img src="Mood Boards/LightMood.jpg"  style="height:350px">
-<img src="Mood Boards/DarkMood.jpg"  style="height:350px">
-<img src="Mood Boards/ClassyMood.jpg"  style="height:350px">
+The general trends are: dark with gold and a contrasting blue. The look is classy, sleek but still fun. The application should be something that young adults would want to use, so ensuring that it does not feel too childish is important.
+
+#### Color Palette
+
+
 
 

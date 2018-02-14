@@ -3,11 +3,7 @@
 
 ViiMe was a project created by my best friend and one of his friends. The idea was that venue owners could provide unique deals to people if they come in groups. The project required creating a web application for venue owners and a mobile application for patrons. 
 
-There were certain requirements laid out from the founders, and they were as follows:
-
-1. The mobile application must be available on both iOS and Android
-2. The mobile application and web application must be made within three months for launch
-3. ...
+There major requirement was that the application must be available on both iOS and Android
 
 ## Mobile
 

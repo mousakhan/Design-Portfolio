@@ -1,4 +1,4 @@
-[Portfolio Update 1](Update1)
+[Portfolio Update 1](Update1.MD)
 
 # ViiMe
 <img src="ViiMe-Transparent.png" style="height:150px">

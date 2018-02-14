@@ -87,8 +87,8 @@ Originally, the application was going to host almost only night life venues such
 
 I found some inspirations online, shown below:
 
-<img src="Mood%Boards/LightMood.jpg"  style="height:350px">
-<img src="Mood%Boards/DarkMood.jpg"  style="height:350px">
-<img src="Mood%Boards/ClassyMood.jpg"  style="height:350px">
+<img src="Mood Boards/LightMood.jpg"  style="height:350px">
+<img src="Mood Boards/DarkMood.jpg"  style="height:350px">
+<img src="Mood Boards/ClassyMood.jpg"  style="height:350px">
 
 

@@ -77,9 +77,18 @@ This change required changing some of the page layout. Instead of having a deals
 
 <img src="Layout.jpg">
 
+#### Design Refinement
 
+With this course, I'd like to take a completely fresh look at the application. I want to start from scratch in terms of coming up with the color palette, typography, and the overall mood we're going for.
 
-The venues are now 'cards' and two cards can go in one row. Furthermore, the deals will be listed when they click the venue, and right after clicking the deal, a pop-up shows up where they can pass the phone over to a venue employee to enter the code.
+Originally, the application was going to host almost only night life venues such as bars, clubs, etc. That led to the decision of using a dark color scheme. However, the application now has venues ranging from bars to local pizza places so it does not seem as appropriate. It might still work, but I decided to investigate other potential color palettes. I used mood boards to gain some inspiration.
 
+##### Mood Boards
+
+I found some inspirations online, shown below:
+
+<img src="Mood%Boards/LightMood.jpg"  style="height:350px">
+<img src="Mood%Boards/DarkMood.jpg"  style="height:350px">
+<img src="Mood%Boards/ClassyMood.jpg"  style="height:350px">
 
 

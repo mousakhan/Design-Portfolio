@@ -91,15 +91,28 @@ The general trends are: dark with gold and a contrasting blue. The look is class
 
 #### Color Palette
 
-The main colors will be dark gray, gold, and blue.
+The main colors will be dark gray, gold, and blue. A palette was created below using an online color palette generator along with a little tinkering.
 
-As an exercise, I wanted to make a splash page with the colors. This would be the page where individiuals would go when they first open the application.
+<img src="ColorPalette.png">
 
-<img src="SplashPage.png"  style="height:350px">
+#### Typography
+
+This was a very difficult decision. In the old application, the System fonts were just used (San Francisco for iOS and Roboto for Android). However, 
 
 #### Icon
 
+The previous application icon is below:
 
+<img src="viimeicon.jpg">
+
+As can be seen, it uses the old app colors of purple and it looks (in my opinion) pretty ugly.
+
+For creating a new icon, I believe brand name is pretty important. An icon where individiuals can immediately associate the logo with the application is ideal. However, an important idea also to convey is the fact that ViiMe is about deals. It is not clear from the name that that is the case, but unfortunately, I cannot change the name. With this information, I designed a quick icon that conveys these thoughts:
+
+
+<img src="NewIcon.png">
+
+It is my first iteration on the icon and it is something I might come back to later.
 
 
 

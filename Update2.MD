@@ -109,7 +109,6 @@ As can be seen, it uses the old app colors of purple and it looks (in my opinion
 
 For creating a new icon, I believe brand name is pretty important. An icon where individiuals can immediately associate the logo with the application is ideal. However, an important idea also to convey is the fact that ViiMe is about deals. It is not clear from the name that that is the case, but unfortunately, I cannot change the name. With this information, I designed a quick icon that conveys these thoughts:
 
-
 <img src="NewIcon.png">
 
 It is my first iteration on the icon and it is something I might come back to later.

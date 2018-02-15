@@ -91,6 +91,17 @@ The general trends are: dark with gold and a contrasting blue. The look is class
 
 #### Color Palette
 
+The main colors will be dark gray, gold, and blue.
+
+As an exercise, I wanted to make a splash page with the colors. This would be the page where individiuals would go when they first open the application.
+
+<img src="SplashPage.png"  style="height:350px">
+
+#### Icon
+
+
+
+
 
 
 

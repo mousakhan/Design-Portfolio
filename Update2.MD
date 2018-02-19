@@ -45,6 +45,8 @@ The next step will be to improve the interface through this course. We will star
 
 ####  User Requirements
 
+
+##### User Interviews
 With the application published, feedback was collected from users. Furthermore, I asked 3 friends with no prior knowledge of the application some questions. I wanted to see how they would navigate the application and where some chokepoints for users might be, along with their general impressions of the application.
 
 I asked three simple questions which I thought would give some key insights. They are as follows:
@@ -64,6 +66,12 @@ To summarize findings, here are the key points:
 The major point of concern is not understanding the concept of a group and why that was necessary. From a business stand point, the founders really wanted to be able to track exactly who was redeeming what deals. They wanted to use this information and sell it to business owners. This was something I pushed to them earlier that this whole process of creating groups would be a big headache for users (and to implement). After conducting these interviews, I brought it up with them again and pushed them on it. They finally gave in - get rid of this groups concept.
 
 The reason why it makes sense to get rid of creating groups and redemptions is that, instead of doing that, users should just be able to log in, look at a venue, and bring up the redemption page. The employee at the venue can look at the # of people in the group and then punch in the redemption code. This makes it significantly easier to redeem a deal you want.
+
+
+##### Personas
+To add some even more perspective, I created some personas:
+
+Persona #1: Sam is a young working adult that eats out quite often. He works at a software company where he often works long hours. He has a small, close-knit friend group at work and they go out to eat together quite often. Unfortunately, he never really learnt how to cook. It's something he wants to learn so he can save money, but he probably won't get around for it for a while. He always is on the lookout for good deals since he wants to save money, and loves trying new places. 
 
 ####  Navigation
 
@@ -119,5 +127,11 @@ It is my first iteration on the icon and it is something I might come back to la
 I came up quickly with the new layout and created a wireframe with some pencil and paper.
 
 <img src="Wireframe.jpg">
+
+With this layout, the application is significantly simpler. It focuses more on showcasing the deals - rather than the venues - which is what users care about. 
+
+To make a high-fidelity wireframe, I used Sketch to create the layout. It is shown below.
+
+
 
 

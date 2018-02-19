@@ -81,7 +81,7 @@ This change required changing some of the page layout. Instead of having a deals
 
 With this course, I'd like to take a completely fresh look at the application. I want to start from scratch in terms of coming up with the color palette, typography, and the overall mood we're going for.
 
-Originally, the application was going to host almost only night life venues such as bars, clubs, etc. That led to the decision of using a dark color scheme. However, the application now has venues ranging from bars to local pizza places so it does not seem as appropriate. It might still work, but I decided to investigate other potential color palettes. I used mood boards to gain some inspiration.
+Originally, the application was going to host almost only night life venues such as bars, clubs, etc. However, the application now has venues ranging from bars to local pizza places. The founders originally wanted to use a dark color scheme with purple to represent nightlife. It might still work, but I decided to investigate other potential color palettes. This was also because in my opinion., it can be very difficult to pull off purple in a mobile application well. To come up with inspiration, I created a moodboard.
 
 ##### Mood Board
 
@@ -89,31 +89,35 @@ I ended up making a mood board online, that can be found here: http://www.gomood
 
 The general trends are: dark with gold and a contrasting blue. The look is classy, sleek but still fun. The application should be something that young adults would want to use, so ensuring that it does not feel too childish is important.
 
-#### Color Palette
+##### Color Palette
 
 The main colors will be dark gray, gold, and blue. A palette was created below using an online color palette generator along with a little tinkering.
 
 <img src="ColorPalette.png">
 
-#### Typography
+##### Typography
 
-This was a very difficult decision. In the old application, the System fonts were just used (San Francisco for iOS and Roboto for Android). However, 
+This was a very difficult decision. In the old application, the System fonts were just used (San Francisco for iOS and Roboto for Android). However, I wanted to try something new and something that would go with the new, sleek style. I settled on Gill Sans MT. It was one of the fonts in the Moodboard, and it's sleek, modern but still a little formal (not too kid-ish). 
 
-#### Icon
+##### Icon
 
 The previous application icon is below:
 
-<img src="viimeicon.jpg">
+<img src="viimeicon.jpg" style="height:150px">
 
 As can be seen, it uses the old app colors of purple and it looks (in my opinion) pretty ugly.
 
 For creating a new icon, I believe brand name is pretty important. An icon where individiuals can immediately associate the logo with the application is ideal. However, an important idea also to convey is the fact that ViiMe is about deals. It is not clear from the name that that is the case, but unfortunately, I cannot change the name. With this information, I designed a quick icon that conveys these thoughts:
 
-<img src="NewIcon.png">
+<img src="NewIcon.png"  style="height:150px">
 
 It is my first iteration on the icon and it is something I might come back to later.
 
 
+##### Wireframe
 
+I came up quickly with the new layout and created a wireframe with some pencil and paper.
+
+<img src="Wireframe.jpg">
 
 

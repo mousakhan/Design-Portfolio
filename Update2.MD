@@ -135,5 +135,21 @@ With this layout, the application is significantly simpler. It focuses more on s
 To make a high-fidelity wireframe, I used Sketch to create the layout. It is shown below.
 
 
+<img src="NewDesign/SplashPage.png"  style="height:350px">
+<img src="NewDesign/LoginPage.png"  style="height:350px">
+<img src="NewDesign/SignupPage.png"  style="height:350px">
 
+
+The screen on the far left is a splash page. I was browsing through Pinterest to get some interest and a bunch of mobile applications have a splash page which give a general idea of what the application is about and then gives option on how to proceed. It seemed like a good idea in this case.
+
+The login page is next, and it's pretty straight-forward and standard.
+
+After the user logins in, they'll hit the new deals page. On this page, they can see all the deals - they will see the venue logothe deal title, and a quick description. They can also access their profile from here.
+
+<img src="NewDesign/ProfilePage.png"  style="height:350px">
+
+On the profile page, all the bare-bone details are shown. They have a profile picture that is seen, along with an email, phone number where we could send them deals in their area, and the location, which they should be able to change to see new deals in the area. Finally, their username is also shown under the profile picture.
+
+<img src="NewDesign/RedemptionPage.png"  style="height:350px">
+<img src="NewDesign/RedemptionPopPage.png"  style="height:350px">
 

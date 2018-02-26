@@ -135,17 +135,22 @@ To make a high-fidelity wireframe, I used Sketch to create the layout. It is sho
 
 <img src="NewDesign/SplashPage.png"  style="height:350px">
 <img src="NewDesign/LoginPage.png"  style="height:350px">
-<img src="NewDesign/RelSignupPage.png"  style="height:350px">
-
+<img src="NewDesign/ForgotPassword.png"  style="height:350px">
 
 The screen on the far left is a splash page. I was browsing through Pinterest to get some interest and a bunch of mobile applications have a splash page which give a general idea of what the application is about and then gives option on how to proceed. It seemed like a good idea in this case.
 
 The login page is next, and it's pretty straight-forward and standard.
 
-Finally, the sign up page is very straight-forward. The user just needs to enter username, email (where an email confirmation is sent so that there is no fake accounts), and a password to sign up. This will be a modal view, so an 'X' button is present where they can go back'. There is more information that the user can add, and this is something they can add later after they've signed up on their profile page.
 
+Finally, the forgot password page is very striaght-forward.
+
+
+<img src="NewDesign/RelSignUp.png"  style="height:350px">
 <img src="NewDesign/SignupPage.png"  style="height:350px">
 <img src="NewDesign/ProfilePage.png"  style="height:350px">
+
+
+The sign up page is very straight-forward. The user just needs to enter username, email (where an email confirmation is sent so that there is no fake accounts), and a password to sign up. This will be a modal view, so an 'X' button is present where they can go back'. There is more information that the user can add, and this is something they can add later after they've signed up on their profile page.
 
 After the user logins in, they'll hit the new deals page. On this page, they can see all the deals - they will see the venue logothe deal title, and a quick description. They can also access their profile from here.
 

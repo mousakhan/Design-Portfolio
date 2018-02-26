@@ -1,11 +1,9 @@
 # ViiMe
 <img src="ViiMe-Transparent.png" style="height:150px">
 
-ViiMe was a project created by my best friend and one of his friends. The idea was that venue owners could provide unique deals to people if they come in groups. The project required creating a web application for venue owners and a mobile application for patrons. 
+ViiMe was a project created by my best friend and one of his friends. The idea was that venue owners could provide unique deals to people if they come in groups. The project required creating a web application for venue owners and a mobile application for patrons. This portfolio will focus on the mobile application.
 
 There major requirement was that the application must be available on both iOS and Android
-
-## Mobile
 
 ### Background
 The mobile application was the method for patrons to easily redeem deals at specific venues. They would need to search through venues, find a deal they like, and then be able to redeem it. 
@@ -152,4 +150,11 @@ On the profile page, all the bare-bone details are shown. They have a profile pi
 
 <img src="NewDesign/RedemptionPage.png"  style="height:350px">
 <img src="NewDesign/RedemptionPopPage.png"  style="height:350px">
+<img src="NewDesign/VenueInfoPage.png"  style="height:350px">
+
+On the left is the page they go to when they click a deal. As can be seen, there is the deal title and deal description. Also, what was added was the deal validity (so they actually know how long it lasts), the number of people required to redeem the deal, and any exceptions to the deal. On the top right, there is a button for venue information. That is why the title of the page in the navigation bar is the venue name.
+
+When they click the big 'REDEEM' button, a pop up will appear. This pop up is where merchants will enter their redemption code. They have the option to cancel or redeem after entering in the code.
+
+Finally, if they click the venue information button, they will see a small business card type pop-up. It will show the important details, and if they click any of the details, it'll do the appropriate action (i.e. it will call if they click the number).
 

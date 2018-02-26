@@ -68,10 +68,10 @@ The major point of concern is not understanding the concept of a group and why t
 The reason why it makes sense to get rid of creating groups and redemptions is that, instead of doing that, users should just be able to log in, look at a venue, and bring up the redemption page. The employee at the venue can look at the # of people in the group and then punch in the redemption code. This makes it significantly easier to redeem a deal you want.
 
 
-##### Personas
-To add some even more perspective, I created some personas:
+##### Persona
+To add some even more perspective, I created a persona:
 
-Persona #1: Sam is a young working adult that eats out quite often. He works at a software company where he often works long hours. He has a small, close-knit friend group at work and they go out to eat together quite often. Unfortunately, he never really learnt how to cook. It's something he wants to learn so he can save money, but he probably won't get around for it for a while. He always is on the lookout for good deals since he wants to save money, and loves trying new places. 
+Sam is a young working adult that eats out quite often. He works at a software company where he often works long hours. He has a small, close-knit friend group at work and they go out to eat together quite often. Unfortunately, he never really learnt how to cook. It's something he wants to learn so he can save money, but he probably won't get around for it for a while. He always is on the lookout for good deals since he wants to save money, and loves trying new places. He usually eats with 2-3 people. He would love an application that helps him make quick decisions at lunch on where to eat cheaply. He has a very small lunch period so he usually doesn't have enough time to think about or look around for places, especially since he goes with a group of people.
 
 ####  Navigation
 
@@ -84,6 +84,8 @@ With this new information structure, the whole navigation was re-thought. It was
 This change required changing some of the page layout. Instead of having a deals page where as they invite more users, the deals change, it makes more sense to list all the deals. This way, when they click a venue, they can see all deals, how many people they need, and they can decide which deals they want to redeem. After clicking the deal, a popup will show where employees can enter a redemption code. Another quick idea was to change the venue layout. Since rows for each venue were taking up a lot of space, and there are currently ~15 venues in the application, it takes up too much screen space. A quick sketch of these new layouts are shown below:
 
 <img src="Layout.jpg">
+
+I believe this is a good starting point for a change. However, to step it up a little further, maybe just directly showing deals is a better approach rather than organizing the deals by venue. This was made clear by the persona created - individuals might just want to quickly see deals near them since they don't have much time or just don't want to browse. This will be explored deeper in the design refinement wireframing.
 
 #### Design Refinement
 
@@ -128,7 +130,7 @@ I came up quickly with the new layout and created a wireframe with some pencil a
 
 <img src="Wireframe.jpg">
 
-With this layout, the application is significantly simpler. It focuses more on showcasing the deals - rather than the venues - which is what users care about. 
+With this layout, the application is significantly simpler. It focuses more on showcasing the deals - rather than the venues - which is what users care about and what was seen from the use of personas. 
 
 To make a high-fidelity wireframe, I used Sketch to create the layout. It is shown below.
 

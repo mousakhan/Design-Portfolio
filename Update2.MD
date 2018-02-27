@@ -97,6 +97,12 @@ I ended up making a mood board online, that can be found here: http://www.gomood
 
 The general trends are: dark with gold and a contrasting blue. The look is classy, sleek but still fun. The application should be something that young adults would want to use, so ensuring that it does not feel too childish is important.
 
+##### Story Board
+
+I also created a storyboard to get a feel for the ideal user experience.
+
+<img src="Storyboard.pdf">
+Beyond just being a coupon application, it's a social application meant to try to get people together and enjoy their times with good deals. That's a key to try to communicate in the application.
 ##### Color Palette
 
 The main colors will be dark gray, gold, and blue. A palette was created below using an online color palette generator along with a little tinkering.
@@ -133,36 +139,42 @@ With this layout, the application is significantly simpler. It focuses more on s
 To make a high-fidelity wireframe, I used Sketch to create the layout. It is shown below.
 
 
-<img src="NewDesign/SplashPage.png"  style="height:400px">
-<img src="NewDesign/LoginPage.png"  style="height:400px">
-<img src="NewDesign/ForgotPassword.png"  style="height:400px">
+<img src="NewDesign/SplashPage.png"  style="height:450px">
+<img src="NewDesign/LoginPage.png"  style="height:450px">
 
-The screen on the far left is a splash page. I was browsing through Pinterest to get some interest and a bunch of mobile applications have a splash page which give a general idea of what the application is about and then gives option on how to proceed. It seemed like a good idea in this case.
+
+The screen on the  left is a splash page. I was browsing through Pinterest to get some interest and a bunch of mobile applications have a splash page which give a general idea of what the application is about and then gives option on how to proceed. It seemed like a good idea in this case.
 
 The login page is next, and it's pretty straight-forward and standard.
 
 
-Finally, the forgot password page is very striaght-forward.
+<img src="NewDesign/ForgotPassword.png"  style="height:450px">
+<img src="NewDesign/TrueSignupPage.jpg"  style="height:450px">
 
 
-<img src="NewDesign/RelSignUp.png"  style="height:400px">
-<img src="NewDesign/SignupPage.png"  style="height:400px">
-<img src="NewDesign/ProfilePage.png"  style="height:400px">
+The forgot password page is very straight-forward.
+
+The sign up page is very straight-forward. The user just needs to enter username, email (where an email confirmation is sent so that there is no fake accounts), and a password to sign up. They also need to enter location so the application knows where to show the eals from. This will be a modal view, so an 'X' button is present where they can go back'. There is more information that the user can add, and this is something they can add later after they've signed up on their profile page.
 
 
-The sign up page is very straight-forward. The user just needs to enter username, email (where an email confirmation is sent so that there is no fake accounts), and a password to sign up. This will be a modal view, so an 'X' button is present where they can go back'. There is more information that the user can add, and this is something they can add later after they've signed up on their profile page.
+
+<img src="NewDesign/SignupPage.png"  style="height:450px">
+<img src="NewDesign/ProfilePage.png"  style="height:450px">
+
 
 After the user logins in, they'll hit the new deals page. On this page, they can see all the deals - they will see the venue logothe deal title, and a quick description. They can also access their profile from here.
 
 On the profile page, all the bare-bone details are shown. They have a profile picture that is seen, along with an email, phone number where we could send them deals in their area, and the location, which they should be able to change to see new deals in the area. Finally, their username is also shown under the profile picture.
 
-<img src="NewDesign/RedemptionPage.png"  style="height:375px">
-<img src="NewDesign/RedemptionPopPage.png"  style="height:375px">
-<img src="NewDesign/VenueInfoPage.png"  style="height:375px">
+<img src="NewDesign/RedemptionPage.png"  style="height:450px">
+<img src="NewDesign/RedemptionPopPage.png"  style="height:450px">
 
 On the left is the page they go to when they click a deal. As can be seen, there is the deal title and deal description. Also, what was added was the deal validity (so they actually know how long it lasts), the number of people required to redeem the deal, and any exceptions to the deal. On the top right, there is a button for venue information. That is why the title of the page in the navigation bar is the venue name.
 
 When they click the big 'REDEEM' button, a pop up will appear. This pop up is where merchants will enter their redemption code. They have the option to cancel or redeem after entering in the code.
+
+
+<img src="NewDesign/VenueInfoPage.png"  style="height:450px">
 
 Finally, if they click the venue information button, they will see a small business card type pop-up. It will show the important details, and if they click any of the details, it'll do the appropriate action (i.e. it will call if they click the number).
 

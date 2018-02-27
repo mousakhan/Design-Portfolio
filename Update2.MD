@@ -145,9 +145,9 @@ The login page is next, and it's pretty straight-forward and standard.
 Finally, the forgot password page is very striaght-forward.
 
 
-<img src="NewDesign/RelSignUp.png"  style="height:350px">
-<img src="NewDesign/SignupPage.png"  style="height:350px">
-<img src="NewDesign/ProfilePage.png"  style="height:350px">
+<img src="NewDesign/RelSignUp.png"  style="height:375px">
+<img src="NewDesign/SignupPage.png"  style="height:375px">
+<img src="NewDesign/ProfilePage.png"  style="height:375px">
 
 
 The sign up page is very straight-forward. The user just needs to enter username, email (where an email confirmation is sent so that there is no fake accounts), and a password to sign up. This will be a modal view, so an 'X' button is present where they can go back'. There is more information that the user can add, and this is something they can add later after they've signed up on their profile page.
@@ -156,9 +156,9 @@ After the user logins in, they'll hit the new deals page. On this page, they can
 
 On the profile page, all the bare-bone details are shown. They have a profile picture that is seen, along with an email, phone number where we could send them deals in their area, and the location, which they should be able to change to see new deals in the area. Finally, their username is also shown under the profile picture.
 
-<img src="NewDesign/RedemptionPage.png"  style="height:350px">
-<img src="NewDesign/RedemptionPopPage.png"  style="height:350px">
-<img src="NewDesign/VenueInfoPage.png"  style="height:350px">
+<img src="NewDesign/RedemptionPage.png"  style="height:375px">
+<img src="NewDesign/RedemptionPopPage.png"  style="height:375px">
+<img src="NewDesign/VenueInfoPage.png"  style="height:375px">
 
 On the left is the page they go to when they click a deal. As can be seen, there is the deal title and deal description. Also, what was added was the deal validity (so they actually know how long it lasts), the number of people required to redeem the deal, and any exceptions to the deal. On the top right, there is a button for venue information. That is why the title of the page in the navigation bar is the venue name.
 

@@ -101,8 +101,10 @@ The general trends are: dark with gold and a contrasting blue. The look is class
 
 I also created a storyboard to get a feel for the ideal user experience.
 
-<img src="Storyboard.pdf">
+<img src="Storyboard.jpg">
+
 Beyond just being a coupon application, it's a social application meant to try to get people together and enjoy their times with good deals. That's a key to try to communicate in the application.
+
 ##### Color Palette
 
 The main colors will be dark gray, gold, and blue. A palette was created below using an online color palette generator along with a little tinkering.

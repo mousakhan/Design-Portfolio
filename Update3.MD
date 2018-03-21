@@ -184,27 +184,27 @@ Finally, if they click the venue information button, they will see a small busin
 
 User testing was always going to be an interesting aspect. There are two dimensions to the application - 1) of the users trying to redeem a deal, and 2) the merchant entering the corresponding redemption code to redeem the deal.
 
-With the first dimension, testing was conducted with 5 users. There were certain tasks they were asked to complete using the new interace. As a low cost and cheap implementation of the application, each application page was printed out on an individual piece of paper. This was to conduct quick user testing instead of actually building out the application. Reflecting back, using a tool such as InVision might have been smart.
+With the first dimension, testing was conducted with 5 users. There were certain tasks they were asked to complete using the new interace. 
 
-The goals of user testing is simply to see how quickly and effectively the user can redeem a deal. That is the essenence of the application - to quickly use the application to redeem a deal. The deals must be easy to find, and the process to redeem a deal must be easy, which includes signing up, logging in, etc.
+The goals of user testing is simply to see how quickly and effectively the user can redeem a deal. That is the essence of the application - to quickly use the application to redeem a deal. The deals must be easy to find, and the process to redeem a deal must be easy, which includes signing up, logging in, etc.
 
 The main goals of user testing were:
 1) 80% of the users should be able to complete all the user tasks without assistance.
 2) The average score (on a scale of 1-5) for ease of use must be 3
-3) 90% of users will rate their satisfaction with each task to be 4 (out of a possible 5)
+3) 90% of users will rate their satisfaction with each task to be atleast 5 (out of a possible 7)
 4) Each task should be completed in 3 clicks or less.
 
 The tasks were as follows:
-1) Please create an account
-2) Please login 
-3) Please call a venue
-4) Please redeem a Pizza Pizza deal
+1) Please create an account.
+2) Please login.
+3) Please call a venue.
+4) Please redeem a Pizza Pizza deal. This task would end when the pop-up to redeem the deal was present.
 
 The props used was the Pizza Pizza deal, and a local Pizza Pizza branch information for testing.
 
-
 The selection of users was an interesting challenge. Since there were people that have used the application before, it made sense to try to test with atleast some of them. However, getting fresh eyes on the application also seemed like a good idea since they would have no idea what the application is about. Therefore, 3 users that had never used the application were found, and 2 old users also tested the application. 
 
+Moreover, the location of user testing was also a challenge. Since all the actual users of the application would be in Ottawa, it was necessary to conduct Skype interviews. This proved quite challenging, since subtle details of user testing, such as body language, facial expressions, etc, were a little harder to see. The user testing with new users was done in the SYDE lab.
 
 The script of the user testing was as follows:
 
@@ -212,5 +212,46 @@ Hi, thank you so much for volunteering to do user testing for ViiMe. We hope to 
 
 ...
 
-Great, let's begin! Here is the application. 
+Great, let's begin! Here is the application. Each page of the application is printed out. When you click what you think is a button, it will bring out a new screen and you can continue the process. Before we begin, please look at the first page of the application. Can you tell what the application is about? (take response)
+
+...
+
+Awesome, thank you. Let's begin with our first task. Please create an account.
+
+...
+
+Awesome, thank you. Let's do the next task. Please login.
+
+...
+
+Awesome, thank you. Next, please call the Pizza Pizza venue.
+
+...
+
+Awesome, thank you. Finally, please redeem a deal.
+
+...
+
+That's it! Thank you very much for your participation! Before we close, I would like to conduct a final questionnare with you if you have time. Is that okay?
+
+...
+
+Great, here's the survey - please let me know if you have any questions.
+
+SCRIPT END
+
+The post study questionnaire used was taken from this source: https://static-content.springer.com/esm/art%3A10.1186%2Fs12911-017-0477-6/MediaObjects/12911_2017_477_MOESM1_ESM.pdf
+
+Instead of re-inventing the wheel, I found the questions asked there were actually very specific and could provide useful data. Along with that, there were a couple of key questions I asked:
+
+1) Do you understand the purpose of the application? What is it?
+2) Would you recommend this application to other people?
+3) If there was anything you would improve about the application, what would it be?
+4) What did you like about the application?
+5) What didn't you like about the application?
+
+I feel as along with the questionnaire, these questions covered all bases to truly undertand what users thought about the product and how to improve it. Throughout this user testing process, it was realized pretty early on (after user test #2) that doing this testing on my own, while writing observations down was pretty painful. So, I asked my friend to help me out, and he helped navigate the paper prototype while I wrote down observations. This was a lot better.
+
+The results of this uesr testing are shown below:
+
 

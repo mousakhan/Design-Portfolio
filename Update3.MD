@@ -180,3 +180,37 @@ When they click the big 'REDEEM' button, a pop up will appear. This pop up is wh
 
 Finally, if they click the venue information button, they will see a small business card type pop-up. It will show the important details, and if they click any of the details, it'll do the appropriate action (i.e. it will call if they click the number).
 
+##### User Testing
+
+User testing was always going to be an interesting aspect. There are two dimensions to the application - 1) of the users trying to redeem a deal, and 2) the merchant entering the corresponding redemption code to redeem the deal.
+
+With the first dimension, testing was conducted with 5 users. There were certain tasks they were asked to complete using the new interace. As a low cost and cheap implementation of the application, each application page was printed out on an individual piece of paper. This was to conduct quick user testing instead of actually building out the application. Reflecting back, using a tool such as InVision might have been smart.
+
+The goals of user testing is simply to see how quickly and effectively the user can redeem a deal. That is the essenence of the application - to quickly use the application to redeem a deal. The deals must be easy to find, and the process to redeem a deal must be easy, which includes signing up, logging in, etc.
+
+The main goals of user testing were:
+1) 80% of the users should be able to complete all the user tasks without assistance.
+2) The average score (on a scale of 1-5) for ease of use must be 3
+3) 90% of users will rate their satisfaction with each task to be 4 (out of a possible 5)
+4) Each task should be completed in 3 clicks or less.
+
+The tasks were as follows:
+1) Please create an account
+2) Please login 
+3) Please call a venue
+4) Please redeem a Pizza Pizza deal
+
+The props used was the Pizza Pizza deal, and a local Pizza Pizza branch information for testing.
+
+
+The selection of users was an interesting challenge. Since there were people that have used the application before, it made sense to try to test with atleast some of them. However, getting fresh eyes on the application also seemed like a good idea since they would have no idea what the application is about. Therefore, 3 users that had never used the application were found, and 2 old users also tested the application. 
+
+
+The script of the user testing was as follows:
+
+Hi, thank you so much for volunteering to do user testing for ViiMe. We hope to get this feedback from you to create a better product. This user testing should take no longer than 30 minutes, and will consist of you (the user) doing a couple of tasks in the application. They are very simple tasks. We want to get a better idea of how a potential user might use the application, and where they might stuck in the application so we can improve it. To do so, we strongly suggest speaking out loud your thought process so we can better understand your thinking. Do you have any questions for us?
+
+...
+
+Great, let's begin! Here is the application. 
+

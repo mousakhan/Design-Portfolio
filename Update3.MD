@@ -184,15 +184,16 @@ Finally, if they click the venue information button, they will see a small busin
 
 User testing was always going to be an interesting aspect. There are two dimensions to the application - 1) of the users trying to redeem a deal, and 2) the merchant entering the corresponding redemption code to redeem the deal.
 
-With the first dimension, testing was conducted with 5 users. There were certain tasks they were asked to complete using the new interace. 
+With the first dimension, testing was conducted with 5 users. There were certain tasks they were asked to complete using the new interface. The second dimension would be difficult to test since I don't live in Ottawa, and the only task required by merchants would be to enter the redempton code. They would find their redemption code on the web app. The user testing will just focus on the first dimension.
 
 The goals of user testing is simply to see how quickly and effectively the user can redeem a deal. That is the essence of the application - to quickly use the application to redeem a deal. The deals must be easy to find, and the process to redeem a deal must be easy, which includes signing up, logging in, etc.
 
 The main goals of user testing were:
 1) 80% of the users should be able to complete all the user tasks without assistance.
-2) The average score (on a scale of 1-5) for ease of use must be 3
+2) The average score for ease of use must be atleast 5 (out of a possible 7)
 3) 90% of users will rate their satisfaction with each task to be atleast 5 (out of a possible 7)
 4) Each task should be completed in 3 clicks or less.
+5) The tasks should be finished within a minute.
 
 The tasks were as follows:
 1) Please create an account.
@@ -253,5 +254,6 @@ Instead of re-inventing the wheel, I found the questions asked there were actual
 I feel as along with the questionnaire, these questions covered all bases to truly undertand what users thought about the product and how to improve it. Throughout this user testing process, it was realized pretty early on (after user test #2) that doing this testing on my own, while writing observations down was pretty painful. So, I asked my friend to help me out, and he helped navigate the paper prototype while I wrote down observations. This was a lot better.
 
 The results of this uesr testing are shown below:
+
 
 

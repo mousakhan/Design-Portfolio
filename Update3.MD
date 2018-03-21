@@ -197,8 +197,11 @@ The main goals of user testing were:
 
 The tasks were as follows:
 1) Please create an account.
+
 2) Please login.
+
 3) Please call a venue.
+
 4) Please redeem a Pizza Pizza deal. This task would end when the pop-up to redeem the deal was present.
 
 The props used was the Pizza Pizza deal, and a local Pizza Pizza branch information for testing.
@@ -207,48 +210,25 @@ The selection of users was an interesting challenge. Since there were people tha
 
 Moreover, the location of user testing was also a challenge. Since all the actual users of the application would be in Ottawa, it was necessary to conduct Skype interviews. This proved quite challenging, since subtle details of user testing, such as body language, facial expressions, etc, were a little harder to see. The user testing with new users was done in the SYDE lab.
 
-The script of the user testing was as follows:
+The script of the user testing can be found in this Google Document: 
 
-Hi, thank you so much for volunteering to do user testing for ViiMe. We hope to get this feedback from you to create a better product. This user testing should take no longer than 30 minutes, and will consist of you (the user) doing a couple of tasks in the application. They are very simple tasks. We want to get a better idea of how a potential user might use the application, and where they might stuck in the application so we can improve it. To do so, we strongly suggest speaking out loud your thought process so we can better understand your thinking. Do you have any questions for us?
+https://docs.google.com/document/d/166nilAOG13gd8VyWCTAOuzqrheKLqJFm6SKPh3s5SFs/edit?usp=sharing
 
-...
 
-Great, let's begin! Here is the application. Each page of the application is printed out. When you click what you think is a button, it will bring out a new screen and you can continue the process. Before we begin, please look at the first page of the application. Can you tell what the application is about? (take response)
+The post study questionnaire used was taken from this source: 
 
-...
-
-Awesome, thank you. Let's begin with our first task. Please create an account.
-
-...
-
-Awesome, thank you. Let's do the next task. Please login.
-
-...
-
-Awesome, thank you. Next, please call the Pizza Pizza venue.
-
-...
-
-Awesome, thank you. Finally, please redeem a deal.
-
-...
-
-That's it! Thank you very much for your participation! Before we close, I would like to conduct a final questionnare with you if you have time. Is that okay?
-
-...
-
-Great, here's the survey - please let me know if you have any questions.
-
-SCRIPT END
-
-The post study questionnaire used was taken from this source: https://static-content.springer.com/esm/art%3A10.1186%2Fs12911-017-0477-6/MediaObjects/12911_2017_477_MOESM1_ESM.pdf
+https://static-content.springer.com/esm/art%3A10.1186%2Fs12911-017-0477-6/MediaObjects/12911_2017_477_MOESM1_ESM.pdf
 
 Instead of re-inventing the wheel, I found the questions asked there were actually very specific and could provide useful data. Along with that, there were a couple of key questions I asked:
 
 1) Do you understand the purpose of the application? What is it?
+
 2) Would you recommend this application to other people?
+
 3) If there was anything you would improve about the application, what would it be?
+
 4) What did you like about the application?
+
 5) What didn't you like about the application?
 
 I feel as along with the questionnaire, these questions covered all bases to truly undertand what users thought about the product and how to improve it. Throughout this user testing process, it was realized pretty early on (after user test #2) that doing this testing on my own, while writing observations down was pretty painful. So, I asked my friend to help me out, and he helped navigate the paper prototype while I wrote down observations. This was a lot better.

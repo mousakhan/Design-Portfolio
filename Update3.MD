@@ -192,9 +192,9 @@ The main goals of user testing were:
 
 1) 80% of the users should be able to complete all the user tasks without assistance.
 
-2) The average score for ease of use must be atleast 5 (out of a possible 7)
+2) The average score for ease of use must be atleast 5 
 
-3) 90% of users will rate their satisfaction with each task to be atleast 5 (out of a possible 7)
+3) 90% of users will rate their satisfaction with each task to be atleast 5
 
 4) Each task should be completed in 3 clicks or less.
 

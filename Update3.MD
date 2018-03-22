@@ -237,9 +237,6 @@ Instead of re-inventing the wheel, I found the questions asked there were actual
 
 5) What didn't you like about the application?
 
-I feel as along with the questionnaire, these questions covered all bases to truly undertand what users thought about the product and how to improve it. Throughout this user testing process, it was realized pretty early on (after user test #2) that doing this testing on my own, while writing observations down was pretty painful. So, I asked my friend to help me out, and he helped navigate the paper prototype while I wrote down observations. This was a lot better.
-
-The results of this user testing are shown below:
-
+I feel as along with the questionnaire, these questions covered all bases to truly undertand what users thought about the product and how to improve it.
 
 

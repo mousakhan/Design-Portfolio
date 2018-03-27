@@ -265,10 +265,24 @@ The key observations were:
 - they generally liked the concept of the application and how it was organized, but were confused on how deals would be shown if venues had multiple deals
 - they did not like how nothing was explained to them
 
+All the user goals were achieved.
+
+Furthermore, some peer critiques were done in class and here were some results:
+- Do more user testing
+- Change name to clarify what the applications means to user
+- Have onboarding screens to show what the application is about
+- Think about how to organize multiple deals from venues
+- For pop up, cancel on left, redeem on right
+- Time icon to calendar icon
+- Make font bigger in profile page
+- Switch email and location
+- Use username or password to reset password
+
 From these results, the recommendations necessary for the design are:
 - implement an on-boarding process so people know what the application is about and can quickly navigate it
 - Add in error messages and figure out what the best method of this would be
 - Add some fun animations, such as a shake animation to inform incorrect passwords
+- Clean up some user experience issues such as the icon switch, as recommended during the peer critique
 
 
 

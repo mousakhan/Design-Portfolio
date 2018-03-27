@@ -71,6 +71,12 @@ To add some even more perspective, I created a persona:
 
 Sam is a young working adult that eats out quite often. He works at a software company where he often works long hours. He has a small, close-knit friend group at work and they go out to eat together quite often. Unfortunately, he never really learnt how to cook. It's something he wants to learn so he can save money, but he probably won't get around for it for a while. He always is on the lookout for good deals since he wants to save money, and loves trying new places. He usually eats with 2-3 people. He would love an application that helps him make quick decisions at lunch on where to eat cheaply. He has a very small lunch period so he usually doesn't have enough time to think about or look around for places, especially since he goes with a group of people.
 
+The design goals and user requirements are then as follows:
+1) The user must be able to create an account 
+2) The user must be able to login to the system 
+3) The user must be able to redeem a deal
+4) The user must be able to edit their profile
+
 ####  Navigation
 
 With this new information structure, the whole navigation was re-thought. It was not necessary to have groups to redeem deals. Thus, the concept of friends list was not necessary. Furthermore, the whole navigation layout was simplified:
@@ -220,7 +226,6 @@ The script of the user testing can be found in this Google Document:
 
 https://docs.google.com/document/d/166nilAOG13gd8VyWCTAOuzqrheKLqJFm6SKPh3s5SFs/edit?usp=sharing
 
-
 The post study questionnaire used was taken from this source: 
 
 https://static-content.springer.com/esm/art%3A10.1186%2Fs12911-017-0477-6/MediaObjects/12911_2017_477_MOESM1_ESM.pdf
@@ -237,6 +242,33 @@ Instead of re-inventing the wheel, I found the questions asked there were actual
 
 5) What didn't you like about the application?
 
-I feel as along with the questionnaire, these questions covered all bases to truly undertand what users thought about the product and how to improve it.
+I feel as along with the questionnaire, these questions covered all bases to truly understand what users thought about the product and how to improve it.
+
+
+
+##### Results and Recommendations 
+
+The results from the post study questionnaire can be found here:
+
+https://docs.google.com/document/d/1MwxppJ5cMpIGY6BFPvwfthNPukBnFRLnSp2r-6kcTmw/edit?usp=sharing
+
+
+The key observations were:
+- there was no error messages designed in the application at all yet, that must be added in (big mistake)
+- people could navigate to a deal very easily
+- they had no idea what the application does or should do just from opening up the application, but were able to learn to use the application quickyl Thus, rating 'easy to learn to use the system' was a little scattered/on the lower side 
+- the application was a little 'serious'
+- they had to manually click each textfield in the sign up process to navigate. After they click 'Enter' on the keyboard, it should automatically switch to the next textfield. This will allow for a faster sign up process.
+- Interesting to note was that individuals that had previously used the application thought this application was very simple to use (all rated it a 7).
+- All users were able to finish the tasks
+- Using the post study questionnaire I found, many users found some questions redundant (like question 5 and 6)
+- they generally liked the concept of the application and how it was organized, but were confused on how deals would be shown if venues had multiple deals
+- they did not like how nothing was explained to them
+
+From these results, the recommendations necessary for the design are:
+- implement an on-boarding process so people know what the application is about and can quickly navigate it
+- Add in error messages and figure out what the best method of this would be
+- Add some fun animations, such as a shake animation to inform incorrect passwords
+
 
 
